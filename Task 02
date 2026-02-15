@@ -1,0 +1,16 @@
+#include <stdio.h> 
+int main () {
+float gb;
+printf("\nEnter total GB used: "); scanf("%f", Cgb);
+if(gb <= 50) {
+printf("Basic User\n");
+}
+else if(gb <= 150) {
+printf("Standard User\n");
+}
+else {
+printf("Heavy User\n");
+ 
+}
+return 0;
+}
