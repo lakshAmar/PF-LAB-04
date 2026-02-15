@@ -1,7 +1,7 @@
 # PF-LAB-04
 # Laksh Amar-PF-Lab-03.
- Name: Danish Kachelo
- Roll No: 25k6514
+ Name: Laksh Amar
+ Roll No: 25k6504
 
  ## Lab Objective ##
 Understand the purpose of logical decision-making in C programming.
