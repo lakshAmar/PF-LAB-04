@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+
+int main() {
+// TASK 1: Sports Team float att;
+printf("Enter attendance percentage: "); scanf("%f", Catt);
+if(att >= 75) {
+printf("Selected for Tournament\n");
+} else {
+printf("Not Selected\n");
+}
+return 0;
+}
